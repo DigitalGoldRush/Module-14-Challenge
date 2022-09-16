@@ -1,12 +1,10 @@
 # Module-14-Challenge
 
-## Creating an algorithmic trading bot using machine learning and deep learning models
+## Create an algorithmic trading bot with machine learning algorithms that can adapt to new data
 
 ---
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg)
-
-### Challenge: It must adapt to new data and evolving markets
 
 - ### Solution 1: Implement an algorithmic trading strategy using machine learning to automate the trading process
 
