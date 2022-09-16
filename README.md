@@ -1,9 +1,10 @@
 # Module-14-Challenge
 
-## Creating an algorithmic trading bot using machine learning and deep learning models.
+## Creating an algorithmic trading bot using machine learning and deep learning models
 
 ---
-![https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg](<https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg>)
+
+![https://github.com/DigitalGoldRush/Module-13-Challenge/blob/main/Resources/neural%20network%20unsplash.jpeg](/Users/michaeldionne/Documents/GitHub/Fintech-Workspace/Module 14/Module-14-Challenge/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg)
 
 ### Challenge: It must adapt to new data and evolving markets
 
