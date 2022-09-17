@@ -1,6 +1,6 @@
 # Module-14-Challenge
 
-## Create an algorithmic trading bot with machine learning algorithms that can adapt to new data
+## Create a trading bot with machine learning algorithms that can adapt to new data
 
 ---
 
