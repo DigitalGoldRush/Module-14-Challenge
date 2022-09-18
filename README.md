@@ -14,6 +14,8 @@
 
 ## Result Analysis
 
+![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.pdf](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.pdf)
+
 ### The best strategy is the ADA (Ada Boost) Strategy because it has the highest cumulative returns
 
 ### The least effective strategy is the DT (Decision Tree) Strategy because it has the lowest cumulative returns
