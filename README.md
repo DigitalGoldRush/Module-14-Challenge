@@ -14,7 +14,7 @@
 
 ## Result Analysis
 
-![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.pdf](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.pdf)
+![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png)
 
 ### The best strategy is the ADA (Ada Boost) Strategy because it has the highest cumulative returns
 
