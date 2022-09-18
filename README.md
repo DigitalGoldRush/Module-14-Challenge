@@ -16,6 +16,8 @@
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png)
 
+### The actual returns mimic the cumulative returns of the two best performing strategies (ADA and SVM), bud did not reach the same peak
+
 ### The best strategy is the ADA (Ada Boost) Strategy because it has the highest cumulative returns
 
 ### The least effective strategy is the DT (Decision Tree) Strategy because it has the lowest cumulative returns
