@@ -12,7 +12,7 @@
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg)
 
-## Result Analysis
+## Summary Evaluation
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/Final%20ML%20plot.png)
 
