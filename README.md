@@ -2,17 +2,23 @@
 
 ## Create a trading bot with machine learning algorithms that can adapt to new data
 
+- ###  Implement an algorithmic trading strategy using ML to automate the trading process
+
+- ### Adjust the input parameters to optimize the algorithm
+
+- ### Optimize results by implementing different ML classifiers. 
+
 ---
 
 ![https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg](https://github.com/DigitalGoldRush/Module-14-Challenge/blob/main/Resources/robot-assistance-2021-10-19-11-47-50-utc.jpg)
 
-- ### Solution 1: Implement an algorithmic trading strategy using machine learning to automate the trading process
+## Result Analysis
 
-- ### Solution 2: Adjust the input parameters to optimize the algorithm
+### The best strategy is the ADA (Ada Boost) Strategy because it has the highest cumulative returns
 
-- ### Solution 3: Train a new machine learning model and compare the results
+### The least effective strategy is the DT (Decision Tree) Strategy because it has the lowest cumulative returns
 
-- ###  Deliverable: Jupyter report with the results of the analysis
+### A Sharp analysis is recommended to consider if the risk of the strategy is worth the reward
 
 ---
 
